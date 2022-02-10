@@ -1,0 +1,28 @@
+{
+    "items": [
+        {
+            "Id": 1,
+            "Amount": 5,
+            "Name": "Clock",
+            "Weight": 15,
+            "Image": "https://media.istockphoto.com/vectors/watch-icon-vector-illustratio-black-wristwatch-pictogram-symbol-clock-vector-id627993910?k=20&m=627993910&s=170667a&w=0&h=ArnZLS2LBW4Zzjg8rsIuMkceNAXyk_XXRYcjHHdb-fE=",
+            "ItemPos": 0
+        },
+        {
+            "Id": 2,
+            "Amount": 15,
+            "Name": "Hat",
+            "Weight": 5,
+            "Image": "https://cdn3.iconfinder.com/data/icons/clothes-products/512/Hat_D-512.png",
+            "ItemPos": 0
+        },
+        {
+            "Id": 3,
+            "Amount": 25,
+            "Name": "T-Shirt",
+            "Weight": 10,
+            "Image": "https://media.istockphoto.com/vectors/tshirt-icon-vector-id925203260?k=20&m=925203260&s=170667a&w=0&h=6PDISEmZWznNGswLK9MiFlIP4YZPMR1u-2CqPmdqeoY=",
+            "ItemPos": 0
+        }
+    ]
+}
