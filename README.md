@@ -1,4 +1,4 @@
-# test-vue
+# inventory-ui
 
 ## Project setup
 ```
